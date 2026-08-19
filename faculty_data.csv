@@ -1,0 +1,21 @@
+Faculty_ID,Name,Subject_Expertise,Subject_Complexity_Multiplier,Classes_Per_Week,Admin_Hours_Per_Week,Max_Consecutive_Classes
+9089,Dominique Day,Software Engineering,1.29,8,7,3
+3144,Kelly Clark,Algorithms,1.31,13,8,4
+8266,Jasmin Solomon,Physics,1.2,21,1,4
+5500,Clifford Rivas,Software Engineering,1.12,21,5,4
+9989,Alexander Garcia,Machine Learning,1.46,19,0,2
+9603,Janet Evans,Operating Systems,1.05,9,10,4
+9274,Andrew Myers,Computer Networks,1.11,16,2,2
+2119,Kevin Mcclure,Operating Systems,1.18,22,2,1
+3151,Ashley Ryan,Machine Learning,1.24,13,5,4
+6341,Laura Howard,Data Structures,1.06,10,7,2
+7043,Rodney Miles,Computer Networks,1.23,20,10,3
+5332,Nathan Jordan,Operating Systems,1.18,8,4,1
+3990,April Lewis,Software Engineering,1.44,11,0,4
+8248,Daniel Phillips,Software Engineering,1.07,21,0,4
+6504,Richard Park,Calculus,1.23,14,5,2
+2159,Peter Elliott,Machine Learning,1.16,8,8,4
+7264,Jamie Costa,Machine Learning,1.28,21,5,2
+9455,Sierra Davidson,Computer Networks,1.29,13,8,4
+3924,Tasha Phillips,Computer Networks,1.43,14,0,1
+6716,Jonathon Simmons,Machine Learning,1.29,20,6,2
